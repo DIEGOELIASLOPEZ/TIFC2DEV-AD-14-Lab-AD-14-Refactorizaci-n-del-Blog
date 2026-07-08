@@ -18,3 +18,22 @@ html {
     background-color: var(--primario);
   }
    */
+
+.navegador {
+  display: flex;
+  justify-content: center;
+}
+
+.navtexto {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+nav {
+  background-color: #7eb77f;
+}
+
+.navtexto:hover {
+    font-weight: bold;
+    color: #f92a82;
+}
