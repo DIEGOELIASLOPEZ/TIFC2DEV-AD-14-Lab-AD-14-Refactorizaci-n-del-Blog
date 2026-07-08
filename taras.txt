@@ -1,0 +1,9 @@
+TAREAS
+1. Esqueleto: 
+2. Contenido HomePage (index):
+3. Contenido AboutUs (quienesSomos.html):
+4. Contendio ContactUs (contacto.html):
+
+5. Header:
+6. Nav: 
+7. Footer:

@@ -1,5 +1,20 @@
+
+:root{
+  --primario: #f92a82;
+  --secundario: #ed7b84;
+  --terceario: #f5dbcb;
+  --cuarto: #d6d5b3;
+  --quinto: #7eb77f;
+}
+
+
 html {
     height: 100%;
     width: 100%;
   }
-  
+
+
+  /* body{
+    background-color: var(--primario);
+  }
+   */
