@@ -1,9 +1,9 @@
 TAREAS
-1. Esqueleto: 
-2. Contenido HomePage (index):
-3. Contenido AboutUs (quienesSomos.html):
-4. Contendio ContactUs (contacto.html):
+1. Esqueleto: Elias
+2. Contenido HomePage (index.html): Dani, Nat.
+3. Contenido AboutUs (quienesSomos.html): David Diana
+4. Contendio ContactUs (contacto.html): Oscar
 
-5. Header:
-6. Nav: 
-7. Footer:
+5. Header: Vane
+6. Nav: Karen
+7. Footer: Esther
