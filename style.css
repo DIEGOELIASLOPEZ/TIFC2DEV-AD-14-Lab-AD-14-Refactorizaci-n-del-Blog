@@ -19,6 +19,7 @@ html {
   }
    */
 
+<<<<<<< HEAD
 .navegador {
   display: flex;
   justify-content: center;
@@ -37,3 +38,9 @@ nav {
     font-weight: bold;
     color: #f92a82;
 }
+=======
+   .navtexto:hover{
+    font-weight: bold;
+    color: var(--primario);
+   }
+>>>>>>> 73aff5cd691ff70dad32a57a85d557e65824ed24
