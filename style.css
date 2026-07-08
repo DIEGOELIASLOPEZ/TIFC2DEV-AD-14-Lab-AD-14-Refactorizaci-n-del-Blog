@@ -21,6 +21,34 @@ html {
   /* Centra el recorte para que no se pierda lo importante */
 }
 
+
+.imagen-principal{
+
+/* abarca toda mi imagen */
+    height: 100vh;
+
+    background-image:
+        linear-gradient(rgba(0,0,0,.35), rgba(0,0,0,.35)),
+        url("picture/hola.png");
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.titulo{
+    color: #f92a82;
+    font-family: Georgia, serif;
+}
+
+.titulo span{
+    color: #f92a82;
+}
+
+.subtitulo{
+    color: #f5dbcb;
+}
+
 /* body{
     background-color: var(--primario);
   }
@@ -43,4 +71,5 @@ html {
   color: var(--primario) !important;
   font-weight: bold;
 }
+
 
