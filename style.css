@@ -25,3 +25,8 @@ html {
     background-color: var(--primario);
   }
    */
+
+   .navtexto:hover{
+    font-weight: bold;
+    color: var(--primario);
+   }
