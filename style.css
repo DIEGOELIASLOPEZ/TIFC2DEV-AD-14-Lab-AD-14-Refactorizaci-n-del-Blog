@@ -1,5 +1,4 @@
-
-:root{
+:root {
   --primario: #f92a82;
   --secundario: #ed7b84;
   --terceario: #f5dbcb;
@@ -9,12 +8,20 @@
 
 
 html {
-    height: 100%;
-    width: 100%;
-  }
+  height: 100%;
+  width: 100%;
+}
 
+.carousel-item img {
+  height: 450px;
+  /* Define la altura fija del carrusel */
+  object-fit: cover;
+  /* Recorta la imagen para que llene el espacio sin deformarse */
+  object-position: center;
+  /* Centra el recorte para que no se pierda lo importante */
+}
 
-  /* body{
+/* body{
     background-color: var(--primario);
   }
    */
